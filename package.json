@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "description": "Aprendiendo SASS, Gulp y NPM",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch src/scss:build/css",
+    "hola": "gulp hola",
+    "css" : "gulp css",
+    "dev": "gulp dev"
   },
   "repository": {
     "type": "git",
@@ -22,6 +27,8 @@
   },
   "homepage": "https://github.com/fersho101/festival-musica#readme",
   "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-sass": "^5.1.0",
     "sass": "^1.77.1"
   }
 }
