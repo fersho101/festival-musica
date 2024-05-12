@@ -1,0 +1,24 @@
+{
+  "name": "festival-musica",
+  "version": "1.0.0",
+  "description": "Aprendiendo SASS, Gulp y NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fersho101/festival-musica.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp",
+    "NPM"
+  ],
+  "author": "fercho101",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fersho101/festival-musica/issues"
+  },
+  "homepage": "https://github.com/fersho101/festival-musica#readme"
+}
