@@ -9,7 +9,7 @@
     "sass": "sass --watch src/scss:build/css",
     "hola": "gulp hola",
     "css" : "gulp css",
-    "dev": "gulp dev"
+    "dev": "gulp"
   },
   "repository": {
     "type": "git",
